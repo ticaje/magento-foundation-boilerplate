@@ -133,3 +133,4 @@ Gemfile.lock
 /app/etc/modules/Mgt_Base.xml
 /app/etc/modules/Mgt_AmazingWysiwyg.xml
 /app/code/local/*
+/dev/
