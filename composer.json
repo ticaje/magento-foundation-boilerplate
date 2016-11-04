@@ -22,6 +22,6 @@
         }
     ],
     "extra": {
-        "magento-root-dir": "src"
+        "magento-root-dir": "web"
     }
 }
