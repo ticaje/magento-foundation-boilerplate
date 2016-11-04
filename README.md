@@ -1,4 +1,4 @@
-#Magento Foundation Boilerplate
+#Magento & Foundation Boilerplate
  - Fast up and runnig magento environment with zurb foundation linging on out of the box
  - Just few tools required to be installed on your system.
  - Only support for unix based OSs
