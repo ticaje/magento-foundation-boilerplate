@@ -1,0 +1,10 @@
+{
+  "name": "waterlee-boilerplate",
+  "version": "1.9.21",
+  "private": "true",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "components-font-awesome": "~4.4.0",
+    "dw-bxslider-4": "~4"
+  }
+}
