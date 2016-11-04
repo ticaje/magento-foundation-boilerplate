@@ -4,7 +4,7 @@
  - Only support for unix based OSs
 
 
-#### This repository is intended to be some workaround for fast magento project's creation in a marriage to zurb foundation framework. The idea is to have a fast and easy to start working on copy of Magento setting up a stack that includes such amazinf frontend framework.
+#### This repository is intended to be some workaround for fast magento project's creation in a marriage to zurb foundation framework. The idea is to have a fast and easy to start working on copy of Magento setting up a stack that includes such amazing frontend framework.
 
  
 ##Tools required to be installed:
