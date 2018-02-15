@@ -2,7 +2,7 @@
   "name": "ticaje/magento-foundation-boilerplate",
   "description": "Magento/Foundation kind of marriage",
   "homepage": "https://github.com/ticaje/magento-foundation-boilerplate",
-  "minimum-stability":"stable",
+  "minimum-stability":"dev",
   "authors": [
     {
       "name": "Hector Luis Barrientos Margolles",
